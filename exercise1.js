@@ -5,8 +5,8 @@ let y = 10;
 let z = h + y;
 
 console.log("Hero: ", myFavoriteHero);
-console.log("Valor de x: ", x);
-console.log("Valor de h: ", h);
-console.log("Valor de y: ", y);
-console.log("Valor de z: ", h + y);
+console.log("Value x: ", x);
+console.log("Value h: ", h);
+console.log("Value y: ", y);
+console.log("Value z: ", h + y);
 
