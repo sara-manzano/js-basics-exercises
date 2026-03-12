@@ -18,8 +18,8 @@ if (number3 != number1) {
   console.log("number3 is distinct from number1");
 }
 
-// USA SIEMPRE === (Igualdad Estricta)
-// 1. Compara VALOR y TIPO (evita que 5 == "5" sea true).
+// USA === (Igualdad Estricta):
+// 1. Compara VALOR y TIPO (evita que 11 == "11" sea true).
 // 2. Evita errores lógicos por conversión automática de datos.
 // 3. Es el estándar profesional en JavaScript moderno.
 
